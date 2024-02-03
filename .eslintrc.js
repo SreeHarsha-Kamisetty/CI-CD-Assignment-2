@@ -23,6 +23,6 @@ module.exports = {
     },
     "rules": {
         "quotes":["error","double"],
-        "no-console":"error"
+        "no-console":"warn"
     }
 }
